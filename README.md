@@ -1,7 +1,7 @@
 # PWFG
 Pwnfliphybrid - pwnagotchi and flipper hybrid 
 # Project in development
-I will post a firs prototype and manual in few days
+I will post a first prototype and manual in few days
 # Progress
 - Set up base (Raspbian with pwnagotchi) ✓
 - Set up jammer (esp8266 custom firmware) ✓
